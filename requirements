@@ -1,0 +1,8 @@
+numpy
+cPickle
+gzip
+matplotlib
+theano
+lasagne
+nolearn
+sklearn
